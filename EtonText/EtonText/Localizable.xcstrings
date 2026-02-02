@@ -1,0 +1,522 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
+    "Actions" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "快捷操作"
+          }
+        }
+      }
+    },
+    "An error has occurred!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "出错了！"
+          }
+        }
+      }
+    },
+    "App info" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App 信息"
+          }
+        }
+      }
+    },
+    "bytes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字节"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "China mainland" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中国大陆"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
+        }
+      }
+    },
+    "Close all" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭所有"
+          }
+        }
+      }
+    },
+    "Created" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建时间"
+          }
+        }
+      }
+    },
+    "Description" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简介"
+          }
+        }
+      }
+    },
+    "Discard all changes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忽略所有更改"
+          }
+        }
+      }
+    },
+    "Discard changes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忽略更改"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "电子邮件"
+          }
+        }
+      }
+    },
+    "Encoding" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编码"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误"
+          }
+        }
+      }
+    },
+    "EtonText" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EtonText"
+          }
+        }
+      }
+    },
+    "EtonText will load a blank recent files records." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EtonText 将载入一个空的历史记录。"
+          }
+        }
+      }
+    },
+    "Export error." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出文件出错。"
+          }
+        }
+      }
+    },
+    "Feedback and suggestions" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反馈和建议"
+          }
+        }
+      }
+    },
+    "File not available." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件不可用。"
+          }
+        }
+      }
+    },
+    "File not found." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件未找到。"
+          }
+        }
+      }
+    },
+    "fjc-525@qq.com" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "fjc-525@qq.com"
+          }
+        }
+      }
+    },
+    "Get info" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件信息"
+          }
+        }
+      }
+    },
+    "Help" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助"
+          }
+        }
+      }
+    },
+    "HELP_TEXT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Introduction\n\nEtonText is a simple text file editor, with features:\n\n* Open any \"public/text\" type file on phone\n* Multiple files editing\n* Swipe to previous/next file\n* File list reorder\n* File history support\n\n# Interface\n\nThere are two screens, \"home screen\" and \"editor screen\". If no files are opened, then home screen displays(for example: after launch the APP), or the editor screen displays.\n\nIn home screen, there are two sections:\n\n* Actions. Create new file, Open file(s).\n* Recent. Display recent file list(only display last 5 files, click \"...\" to display more), click to open the file.\n\nOn top-trailing, there is a menu button with commands:\n\n* New. Create new file.\n* Open. Open file(s).\n* Recent. Display a list of recent files(50 files most), item can be deleted. * Help. Display this help.\n* About. Display app information.\n\n\nAfter creating or open file(s), the editor screen replace home screen.\n\nIn editor screen, there is a large text area, touch to edit the file, swipe left or right to switch to previous or next file.\n\nOn top-leading, there is a bullet button, click to display a list of current opened files, item can be reorder, removed and selected.\n\nOn top-middle, the filename of current file is displayed, when content of the file is changed, an asterisk symbolic is displayed at head of filename. Click the filename to show menu for current file:  * Get info. Display current file information.\n* Close. Close current edited file.\n\nOn top-trailing, there are two button, save and menu. Click save button to save modification to current file. The menu button has following commands:\n\n* New. Create new file.\n* Open. Open file(s).\n* Recent. Display a list of recent files(50 files most), item can be deleted..\n* Close all. Close all opened files. * Help. Display this help.\n* About. Display app information.\n\nAfter closing all files, the home screen replace editor screen.\n\n# Recent file record persistence\n\nWhen the APP switch to background, it write current recent files record to local storage, so recent files record can be persistent. But if you force close the APP, the write operation may not happen, you will lost some records since last write.\n\n# Note\n\n(1) The editor now not optimized for large file operation. For example, one 2 MB text file will take about 10 s to open.\n(2) Redo and undo function are not implemented now.\n(3) Because the system API(fileExporter) is used, in save dialog, it display \"Move\" button instead of \"Save\"."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 简介  EtonText 是一个简单的文本文件编辑器，主要特性：  * 打开手机上所有 \"public/text\" 类型文件 * 多文件编辑 * 滑动手势切换上一个/下一个文件 * 文件列表排序 * 文件历史支持  # 界面  有两个屏幕，“主屏屏幕” 和 “编辑器屏幕”。如果当前没有文件打开，那么显示的是主屏幕（如启动应用之后），否则显示编辑器屏幕。  在主屏幕，有两个区域：  * 快捷操作。新建文件，打开文件。 * 最近的文件。列出最近打开的文件（只显示最近5个，点击下面的“...”查看更多），点击后打开。  在顶部末尾，有一个菜单按钮，里面有以下命令：  * 新建。新建文件。 * 打开。打开文件。 * 最近。显示最近文件列表（最多50个），项目可以删除。 * 帮助。显示这个帮助。 * 关于。显示应用信息。  新建或打开文件之后，编辑器屏幕替换掉主屏幕。  在编辑器屏幕，有一个大的文本区域，点击编辑文件，向左或向右滑动切换前一个或后一个文件。  在顶部开头，有一个列表按钮，点击后显示当前打开的文件的列表，列表项目可以被排序，删除和选择。  在顶部中间，显示的是当前文件的文件名，当文件内容改变后，文件名之前会出现一个星号。 点击文件名出现操作当前文件的菜单：  * 信息。显示当前文件的信息。 * 关闭。关闭当前编辑的文件。  在顶部末尾，有两个按钮，保存和菜单。点击保存按钮，保存更改到文件。菜单按钮有以下命令：  * 新建。新建文件。 * 打开。打开文件。 * 最近。显示最近的文件列表（最多50个），项目可以被删除。 * 关闭全部。关闭全部已打开的文件。 * 帮助。显示这个帮助。 * 关于。显示应用信息。  关闭所有文件之后，主屏幕替换编辑器屏幕。  # 最近文件记录的持久化  当应用切换到后台时，它将当前的最近文件记录写到本机存储，因此最近文件记录可以持久保存。但是如果你强制关闭应用，写入操作可能不会发生，你将丢失自上次写入到现在期间的一些记录。  # 注意事项  (1) 这个编辑器现在还没有对打开大型文件做优化。例如，打开一个 2 MB 的文件可能需要 约10 s。 (2) 重做和撤销功能现在没有实现。 (3) 由于使用系统 API(fileExporter) 的原因，保存文件界面中会显示“移动”按钮而不是“保存”。"
+          }
+        }
+      }
+    },
+    "Import error." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入错误。"
+          }
+        }
+      }
+    },
+    "Info" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
+    },
+    "Legal & Regulatory" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法律与监管"
+          }
+        }
+      }
+    },
+    "List" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "列表"
+          }
+        }
+      }
+    },
+    "Menu" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "菜单"
+          }
+        }
+      }
+    },
+    "Modified" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改时间"
+          }
+        }
+      }
+    },
+    "More" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称"
+          }
+        }
+      }
+    },
+    "New" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建"
+          }
+        }
+      }
+    },
+    "One or more files is not saved" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有文件改动未保存"
+          }
+        }
+      }
+    },
+    "Open" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开"
+          }
+        }
+      }
+    },
+    "Path" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "路径"
+          }
+        }
+      }
+    },
+    "Recent" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近"
+          }
+        }
+      }
+    },
+    "Recent files" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最近的文件"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        }
+      }
+    },
+    "Size" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大小"
+          }
+        }
+      }
+    },
+    "Text editor with tab pages" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "带选项卡页的文本编辑器"
+          }
+        }
+      }
+    },
+    "The file is not saved" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件更改未保存"
+          }
+        }
+      }
+    },
+    "Try again later." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "稍后重试。"
+          }
+        }
+      }
+    },
+    "Type" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类型"
+          }
+        }
+      }
+    },
+    "Version" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本"
+          }
+        }
+      }
+    },
+    "You can safely ignore this error." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你可以忽略这个错误。"
+          }
+        }
+      }
+    },
+    "豫ICP备2024069750号-1A" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "豫ICP备2024069750号-1A"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
